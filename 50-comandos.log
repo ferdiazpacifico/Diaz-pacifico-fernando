@@ -1,0 +1,16 @@
+   34  history | tail -n 50 > 50-comandos.log\n
+   35  ls
+   36  cd ~/Desktop\n
+   37  git clone https://github.com/ferdiazpacifico/Diaz-pacifico-fernando.git
+   38  cp ~/Desktop/50-comandos.log .\n
+   39  git clone https://github.com/ferdiazpacifico/Diaz-pacifico-fernando.git
+   40  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
+   41  git clone https://github.com/ferdiazpacifico/Diaz-pacifico-fernando.git\n
+   42  cd ~/Desktop/Diaz-pacifico-fernando\n
+   43  cp ~/Desktop/50-comandos.log .\n
+   44  cd
+   45  cd ~/Desktop\n
+   46  mkdir Prueba1\n
+   47  wc -w El-arriero.txt\n
+   48  wc -w Prueba1/El-arriero.txt\n
+   49  grep -o "vaquitas" Prueba1/El-arriero.txt | wc -l\n
